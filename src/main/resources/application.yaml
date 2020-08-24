@@ -1,0 +1,11 @@
+db:
+  username: vrebic
+  password: pwd
+  url: localhost
+  port: 3000
+
+jms:
+  username: vrebic@jms
+  password: pwd
+  url: localhost
+  port: 3000
